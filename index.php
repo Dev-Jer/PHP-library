@@ -15,7 +15,7 @@
     <!-- start of navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background:#393E46;">
         <div class="container">
-          <a class="navbar-brand" href="#">Origin Library</a>         
+          <a class="navbar-brand" href="#index">Origin Library</a>         
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">              
               <!-- -------------- -->
@@ -23,7 +23,7 @@
           </div>
           <!-- list for aligning items to the right of the navbar -->
           <ul class="navbar-nav">            
-            <<li class="nav-item"><a href="#" class="nav-link">Login</a></li>            
+            <li class="nav-item"><a href="UserLogin.php" class="nav-link">Login</a></li>            
           </ul>
           <!-- ------------  -->
         </div>
